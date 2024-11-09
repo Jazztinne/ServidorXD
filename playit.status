@@ -1,0 +1,508 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731113889498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731113904590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113907663 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113910721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113913780 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731113928868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113931957 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113935029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113938093 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731113953194 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113956250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113959315 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731113974400 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113977463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731113992562 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113995627 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731113998687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114013774 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114016827 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114019886 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114022946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114038046 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114041119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114044174 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114059267 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114062357 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114065416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114068473 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114083552 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114086606 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114101707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114104764 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114107817 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114122906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114125970 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114129032 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114144120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114147213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114162302 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114165368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114180452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114183509 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114186579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114201699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114204757 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114207821 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114222901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114225967 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114229028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114244136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114247198 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114250257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114265342 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114268419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114271486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114286632 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114289840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114292927 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114295991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114311075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114314130 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114317186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114332289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114335383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114338445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114353558 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114356630 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114359693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114362746 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114377871 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114380937 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114383996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114387058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114402151 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114405222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114408283 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114423399 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114426455 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114441579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114444768 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114447822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731114462908 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114465962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731114469024 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+available-atom.gl.at.ply.gg:39079 => 127.0.0.1:39079 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
